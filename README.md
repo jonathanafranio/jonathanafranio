@@ -12,7 +12,7 @@
 
 <p align="left">💻 Sou desenvolvedor Full Stack há 14 anos, com experiência em Laravel, Vue.js, Strapi e WordPress.<br>🚀 Gosto de desenvolver aplicações bem estruturadas, focadas em performance e numa experiência de usuário fluida.<br>⚡ Tenho domínio em JavaScript (ES6+), PHP, Git, API REST e integrações de sistemas.<br>📈 Além disso, estou sempre estudando e explorando novas tecnologias para evoluir como profissional e entregar o melhor resultado possível.</p>
 
-<p align="left"><strong>CV Online: <a href="https://jonathanafranio.github.io/cv/" target="_blank">https://jonathanafranio.github.io/cv/</a>
+<p align="left"><strong>CV Online:</strong> <a href="https://jonathanafranio.github.io/cv/" target="_blank">https://jonathanafranio.github.io/cv/</a></p>
 
 ###
 
