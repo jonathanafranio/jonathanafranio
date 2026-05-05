@@ -51,14 +51,7 @@
 <h2 align="left">Contato</h2>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jonathan-afranio-4b96b039/" target="_blank" style="display: inline-block;" align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5511940114291" target="_blank" style="display: inline-block;" align="left">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathanafranio/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511940114291)
 
 ###
